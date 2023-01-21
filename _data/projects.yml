@@ -1,0 +1,74 @@
+# projects section data
+- name: Statistical Reinforcement Learning for Renal Replacement Therapy Initiation in the ICU
+  arxiv: 
+  proceedings: 
+  presentation:
+  gh_user:
+  poster: /posters/RL-RRT.pdf
+  repo: https://github.com/fcgrolleau/Dynamic-RRT
+  tool: http://dynamic-rrt.eu/
+  img: /images/projects/dynamicrrt.png
+  desc: We developed and externally validated a dynamic renal replacement therapy initiation strategy for ICU patients with severe acute kidney injury. Our study suggests that implementing this new individualized strategy could increase the average number of days ICU patients spend alive and outside the hospital. We further found that the implementation could help save health resources all the while reducing unnecessary treatment burdens.
+
+- name: A Comprehensive Framework for the Evaluation of Individual Treatment Rules
+  arxiv: https://arxiv.org/pdf/2207.06275.pdf
+  proceedings: 
+  presentation:
+  gh_user: 
+  poster: /posters/ACIC.pdf
+  repo: https://github.com/fcgrolleau/ITReval
+  video: https://www.youtube.com/watch?v=gUSgr9r7waw&feature=youtu.be
+  tool:
+  img: /images/projects/itreval.png
+  desc: Individualized treatment rules are deterministic decision rules that recommend treatments to individuals based on their characteristics. Though ubiquitous in medicine, individualized treatment rules are hardly ever evaluated in randomized controlled trials. To evaluate individualized treatment rules from observational data, we introduce a new probabilistic model and propose an estimation procedure that relies on an expectation-maximization algorithm. We illustrate our approach on the MIMIC-III database.
+
+- name: Effects Heterogeneity From Renal Replacement Therapy Initiation in the ICU
+  arxiv: /papers/2022 Personalization of renal replacement therapy initiation.pdf
+  proceedings: 
+  presentation:
+  gh_user: 
+  repo:
+  poster: /posters/ISICEM.jpg
+  tool: http://rrt-personalization.eu
+  img: /images/projects/persorrt.png 
+  desc: Randomized trials comparing early and delayed strategies of renal replacement therapy in patients with severe acute kidney injury may have missed differences in survival as a result of mixing patients at heterogeneous levels of baseline risk. Using data from the AKIKI and IDEAL‐ICU trials, we identified a heterogeneity of treatment effects from an early vs a delayed strategy across levels of risks. This heterogeneity in survival may reflect varying degrees of kidney demand‐capacity mismatch.
+
+- name: Personalization of Plasma Exchange in Severe ANCA-Associated Vasculitis
+  arxiv: https://journals.lww.com/jasn/Abstract/2022/03000/Kidney_Histopathology_Can_Predict_Kidney_Function.16.aspx
+  proceedings: 
+  presentation:
+  gh_user: 
+  repo:
+  tool: 
+  img: /images/projects/anca.png
+  desc: Recent results from the PEXIVAS trial challenged the role of plasma exchange in ANCA-associated vasculitis. We aimed to evaluate whether histopathologic findings could predict kidney function and help identify which patients would most benefit from plasma exchanges. We developed a scoring system to identify the subset of patients who would benefit from plasma exchange.
+
+- name: Continuous Versus Intermittent Renal Replacement Therapy In Severe Acute Kidney Injury
+  arxiv: papers/2022 Continuous renal replacement therapy versus intermittent hemodialysis.pdf
+  proceedings: 
+  presentation:
+  gh_user: 
+  repo:
+  tool: 
+  img: /images/projects/bubble.png
+  desc: Intermittent hemodialysis and continuous renal replacement therapy are the main renal replacement therapy modalities for patients with severe acute kidney injury. Following the emulated target trial principle, we reanalyzed data from AKIKI and IDEAL-ICU to evaluate which of these two modalities best improved patients-important outcomes. Compared to intermittent hemodialysis, we found no evidence that continuous renal replacement therapy improved survival or kidney recovery; however, we noted that intermittent hemodialysis may be a better choice in patients with lesser severity of the disease. 
+
+- name: Cross-validation in the Context of Federated Learning
+  arxiv: /papers/fold-stratified cross-validation.pdf
+  proceedings: 
+  presentation:
+  gh_user: 
+  repo:
+  tool: 
+  img: /images/projects/fl.png
+  desc: We introduce a validation methodology compatible with privacy-preserving federated learning that prevents data leakage caused by duplicates of electronic health records. We perform Monte Carlo simulations to investigate the properties of our procedure—in the case of the validation of a predictive gradient boosting model. We further illustrate this on MIMIC-III medical records and show that when a covariate weakly associated with the outcome is available on duplicated records, our approach prevents overoptimistic estimations of accuracy.
+
+- name: Fragility of Anesthesia and Critical Care Randomized Trial Findings
+  arxiv: https://journals.lww.com/ccmjournal/Abstract/2019/03000/The_Fragility_and_Reliability_of_Conclusions_of.19.aspx
+  proceedings: 
+  presentation:
+  gh_user: 
+  repo:
+  tool: 
+  img: /images/projects/fi.png
+  desc: In anesthesia and critical care, most trials are single-center with negative findings. In this work, we focused on the studies with positive findings and evaluated their result's robustness with a new statistical metric—the Fragility Index. We found that the results of anesthesia and critical care trials with statistically significant findings are often fragile and that articles' conclusions were frequently affected by spin. 

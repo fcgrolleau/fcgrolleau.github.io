@@ -1,0 +1,26 @@
+# projects section data
+- name: Mestim
+  arxiv: 
+  proceedings:
+  presentation: 
+  vignette: https://fcgrolleau.github.io/Mestim/vignette/vignette.html
+  poster:
+  gh_user: 
+  repo: https://github.com/fcgrolleau/Mestim
+  cran: https://cran.r-project.org/web/packages/Mestim/index.html
+  img: /images/projects/mestim.gif
+  desc: This R package provides a flexible framework for estimating the variance-covariance matrix of estimated parameters. Estimation relies on providing unbiased estimating functions to compute the empirical sandwich variance.
+  
+- name: Speedboot
+  arxiv: 
+  proceedings:
+  presentation: 
+  vignette:
+  poster:
+  gh_user: 
+  repo: https://github.com/fcgrolleau/speedboot
+  cran: 
+  pypi: https://pypi.org/project/speedboot/
+  img: /images/projects/speedboot.png
+  desc: This Python library lets you boostrap vector-valued statistics fast as it uses parallel processing. Ploting as well as computation of bias-corrected and accelerated confidence intervals are available.
+  
