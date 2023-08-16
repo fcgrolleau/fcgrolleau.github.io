@@ -41,6 +41,9 @@ robots: noindex
            {% if project.poster %}
            <a href="javascript:window.open('{{ project.poster }}', 'newwindow', 'width=700,height=1000')"><i class="fa fa-chalkboard-teacher"></i><span class="star"> Poster </span></a>&emsp;&emsp;
           {% endif %}
+          {% if project.slides %}
+          <a href="javascript:window.open('{{ project.slides }}', 'newwindow', 'width=1000,height=700')"><i class="fa-brands fa-slideshare"></i><span class="star"> Slides </span></a>&emsp;&emsp;
+         {% endif %}
 <br>
             {% if project.media1 %}
             <a target="_blank" href="{{ project.media1 }}"><i class="far fa-newspaper"></i><span class="star"> News </span></a>&emsp;&emsp;

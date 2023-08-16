@@ -1,9 +1,9 @@
 # projects section data
 - name: Statistical Reinforcement Learning for Renal Replacement Therapy Initiation in the ICU
-  arxiv: 
-  proceedings: 
-  presentation:
-  gh_user:
+  arxiv: https://www.medrxiv.org/content/10.1101/2023.06.13.23291349v1.full.pdf
+  slides: /slides/cnrs_14_06.pdf
+  presentation: 
+  gh_user: 
   poster: /posters/RL-RRT.pdf
   repo: https://github.com/fcgrolleau/Dynamic-RRT
   tool: http://dynamic-rrt.eu/
