@@ -6,4 +6,4 @@
 5. Configure: `_config.yml`
 
 Access via: [http://localhost:4000/](http://localhost:4000/) <br>
-Push to Github to make it available at [https://fcgrolleau.github.io/](https://fcgrolleau.github.io/)
+Push to Github to make it available at: [https://fcgrolleau.github.io/](https://fcgrolleau.github.io/)
