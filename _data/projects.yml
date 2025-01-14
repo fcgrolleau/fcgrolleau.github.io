@@ -1,4 +1,26 @@
 # projects section data
+- name: powerROC Interactive Sample Size Calculator for Model Discrimination
+  arxiv: https://arxiv.org/abs/2501.03155
+  slides: https://github.com/fcgrolleau/powerROC/blob/main/powerroc.pdf
+  presentation:
+  gh_user: 
+  poster: 
+  repo: https://github.com/fcgrolleau/powerROC
+  tool: https://fcgrolleau.github.io/powerROC
+  img: /images/projects/powerroc.png
+  desc: We introduce powerROC, an open-source web tool designed to simplify sample size calculations for AUROC-based external validation studies. We review key concepts for accurate sample size determination, making the theory and practice more accessible to researchers and clinicians. The tool supports evaluating a single model and comparing two models, with guidance on selecting target precision levels using pilot data or user-defined probability distributions.
+
+- name: Conformal Prediction for Hospital Cost Variability
+  arxiv: https://www.medrxiv.org/content/10.1101/2025.01.10.25320349
+  slides: 
+  presentation:
+  gh_user: 
+  poster: 
+  repo: 
+  tool: 
+  img: /images/projects/costvar.png
+  desc: We introduce a novel outlier detection method for Electronic Health Records using Conformal Prediction to address hospital cost variability. This approach employs Conformal Quantile Regression to generate robust prediction intervals, providing a comprehensive view of cost variability. By integrating this method with machine learning models, healthcare professionals can identify opportunities for quality and efficiency improvements in clinical practices.
+
 - name: Estimating Complier Average Causal Effects with Mixtures of Experts
   arxiv: https://arxiv.org/pdf/2405.02779
   slides: 
