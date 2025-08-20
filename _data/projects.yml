@@ -1,6 +1,6 @@
 # projects section data
 - name: powerROC Interactive Sample Size Calculator for Model Discrimination
-  arxiv: https://arxiv.org/abs/2501.03155
+  arxiv: https://arxiv.org/pdf/2501.03155
   slides: https://github.com/fcgrolleau/powerROC/blob/main/powerroc.pdf
   presentation:
   gh_user: 
@@ -33,7 +33,7 @@
   desc: In healthcare, it's essential to evaluate the effects of medical interventions. We introduced a new technique to estimate the Complier Average Causal Effect (CACE) without depending on problematic assumptions such as exclusion restriction and monotonicity. We examined the theoretical properties of our approach and demonstrate its performance and applicability in both simulated and real-world scenarios.
 
 - name: Statistical Reinforcement Learning for Renal Replacement Therapy Initiation in the ICU
-  arxiv: https://www.medrxiv.org/content/10.1101/2023.06.13.23291349v1.full.pdf
+  arxiv: papers/rl-rrt.pdf
   slides: /slides/cnrs_14_06.pdf
   presentation: 
   gh_user: 
