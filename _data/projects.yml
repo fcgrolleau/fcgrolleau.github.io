@@ -1,4 +1,15 @@
 # projects section data
+- name: Fact-Grounded Evaluation and Generation of Clinical Summaries
+  arxiv: https://arxiv.org/pdf/2509.05878
+  slides:
+  presentation:
+  gh_user: 
+  poster: 
+  repo: https://github.com/fcgrolleau/medfacteval
+  tool:
+  img: /images/projects/medfacteval.png
+  desc: MedFactEval is a clinician-grounded framework where key facts are defined by physicians and an LLM jury checks whether AI drafts include or contradict them. MedAgentBrief is a model-agnostic, stepwise workflow that builds discharge summaries with traceable links back to the source notes. The MedAgentBrief pipeline is now deployed at Stanford’s Sequoia hospital, where physicians use it as the first draft of their discharge summaries.
+
 - name: powerROC Interactive Sample Size Calculator for Model Discrimination
   arxiv: https://arxiv.org/pdf/2501.03155
   slides: https://github.com/fcgrolleau/powerROC/blob/main/powerroc.pdf
