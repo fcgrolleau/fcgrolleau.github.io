@@ -1,10 +1,22 @@
 # projects section data
+- name: Safety of AI-Generated Discharge Summaries
+  arxiv: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785
+  slides:
+  presentation:
+  gh_user:
+  poster:
+  repo:
+  tool:
+  img: /images/projects/mab_safety.png
+  desc: We built and deployed MedAgentBrief, an agentic AI system that drafts hospital discharge summaries, at Stanford Health Care. In a prospective evaluation across 384 discharges, 88% of AI-generated summaries posed no potential harm. Information omissions were the predominant issue, while hallucinations and factual inaccuracies remained rare. Physician burnout scores dropped significantly below the clinical threshold.
+
 - name: Fact-Grounded Evaluation and Generation of Clinical Summaries
   arxiv: https://arxiv.org/pdf/2509.05878
   slides:
   presentation:
-  gh_user: 
-  poster: 
+  video: https://youtu.be/agQL97RwFDw?si=GjcGuApZSSXNH2bQ&t=15
+  gh_user:
+  poster:
   repo: https://github.com/fcgrolleau/medfacteval
   tool:
   img: /images/projects/medfacteval.png
