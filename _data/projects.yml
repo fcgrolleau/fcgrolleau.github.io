@@ -7,6 +7,7 @@
   poster:
   repo:
   tool:
+  media1: https://med.stanford.edu/news/all-news/2026/06/ai-discharge-summary.html
   img: /images/projects/mab_safety.png
   desc: We built and deployed MedAgentBrief, an agentic AI system that drafts hospital discharge summaries, at Stanford Health Care. In a prospective evaluation across 384 discharges, 88% of AI-generated summaries posed no potential harm. Information omissions were the predominant issue, while hallucinations and factual inaccuracies remained rare. Physician burnout scores dropped significantly below the clinical threshold.
 
